@@ -808,7 +808,7 @@ def main():
     st.markdown("""
     <div style='text-align: center'>
         <p>Built with ❤️ using Streamlit | 
-        <a href='https://github.com/your-repo/project2-churn-prediction' target='_blank'>GitHub Repository</a> | 
+        <a href='https://github.com/yinkid28/project2-churn-prediction' target='_blank'>GitHub Repository</a> | 
         <a href='https://www.youtube.com/watch?v=your-video' target='_blank'>Video Demo</a>
         </p>
     </div>
